@@ -4,6 +4,7 @@ node_modules/
 # workspace outputs
 apps/*/node_modules/
 apps/*/dist/
+apps/mobile/.expo/
 
 # logs
 npm-debug.log*
