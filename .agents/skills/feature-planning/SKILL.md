@@ -30,6 +30,7 @@ Convert designed features into implementation plans that optimize for small pull
    - rollback strategy
 4. Order slices by dependency with early value delivery.
 5. Call out breaking changes separately with mitigation.
+6. Document the plan in `plans/<plan>/planning.md` and child slices in `plans/<plan>/slices/<slice-0X>.md`.
 
 ## Output Template
 - Ordered slice list

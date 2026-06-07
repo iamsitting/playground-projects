@@ -23,6 +23,8 @@ Design a feature from requirements in `plans/*` with explicit architecture fit, 
    - Swagger change
    - Orval SDK update
 9. Provide test strategy and rollout strategy.
+10. If needed, uses mermaid diagrams for complex flows.
+11. Output a comprehensive design document in `plans/<plan>/design.md` 
 
 ## Output Template
 - Feature summary
